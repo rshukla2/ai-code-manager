@@ -1,0 +1,12 @@
+{
+  "name": "sample-project",
+  "target_repo": "/path/to/sample-target-repo",
+  "agent_command": "",
+  "auto_complete_agent_success": true,
+  "agent_timeout_seconds": 1800,
+  "codex_sandbox": "workspace-write",
+  "codex_approval_policy": "never",
+  "auto_complete_codex_success": true,
+  "max_tasks_per_run": 5,
+  "codex_timeout_seconds": 1800
+}

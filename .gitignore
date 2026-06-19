@@ -1,0 +1,13 @@
+.env
+projects.json
+projects/*
+!projects/.gitkeep
+!projects/README.md
+**/__pycache__/
+*.pyc
+logs/*.log
+task_results/*.json
+projects/*/logs/*.log
+projects/*/task_results/*.json
+.DS_Store
+agent_state.local.json

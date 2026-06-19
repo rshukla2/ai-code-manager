@@ -1,0 +1,5 @@
+# Base AI Code Manager uses only the Python standard library.
+# Install a provider SDK only if you use AI PRD normalization or AI dedupe:
+#   python3 -m pip install openai
+#   python3 -m pip install anthropic
+#   python3 -m pip install google-genai
