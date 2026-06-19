@@ -14,7 +14,7 @@ The reusable tool code lives in this repository. Your real project workspaces li
 ## Quick Start
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/rshukla2/ai-code-manager.git
 cd ai-code-manager
 python3 -m venv .venv
 source .venv/bin/activate
